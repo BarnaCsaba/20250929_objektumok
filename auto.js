@@ -10,6 +10,8 @@ export class Auto {
         return aktualisEv - this._evjarat
     }
 
+    
+
     get modell() {
         return this._modell
     }
